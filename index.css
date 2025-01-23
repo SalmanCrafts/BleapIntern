@@ -21,7 +21,7 @@ nav {
     text-align: center;
 }
 #logo{
-   background: url(/images/logo.png) center no-repeat;
+   background: url(logo.png) center no-repeat;
    background-size: cover;
     height: 50px;
     width: 50px;
@@ -461,7 +461,7 @@ section#second {
   height: 400px;
   width: 100%;
   max-width: 400px;
-  background-image: url(images/bgTemp.png);
+  background-image: url(bgTemp.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -761,7 +761,7 @@ section#second {
 #SixthPage_lowerdiv_logo {
   width: 110px;
   height: auto;
-  background-image: url(images/logo.png);
+  background-image: url(logo.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
