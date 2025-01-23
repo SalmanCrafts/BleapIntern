@@ -11,7 +11,7 @@ function toggleAnswer(button) {
 
 const Resultout = document.getElementById("time_show");
 const SignupButton = document.getElementById("timeout_Register_btn");
-const duration = 30;
+const duration = 120;
 let remainingTime = duration;
 const messageElement = document.getElementById("message");
 
